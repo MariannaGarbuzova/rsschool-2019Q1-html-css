@@ -1,3 +1,3 @@
 # rsschool-2019Q1-codeacademy
-Marianna Garbuzova
+Maryana Harbuzava
 HTML CSS Basics: https://www.codecademy.com/users/MariannaGarbuzova/achievements
